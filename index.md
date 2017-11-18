@@ -7,11 +7,8 @@
 #
 layout: home
 ---
+我從小到大都覺得數學很難，可是又不怎麼想輸給它。
 
-Cayman Blog Theme is a clean, responsive blogging theme for Jekyll, with social features. It is inspired by the Cayman Theme for Github Pages, which can be greatly used for single projects but not as blogging platform.
+這個地方分享有關於數學及計算機科學的一般知識，希望可以讓更多人理解這兩門科目。
 
-This theme has instead all you need to start today blogging with Jekyll, and no effort: pages, posts, few social buttons. Try loading this on mobile too.
-
-Have a look at the Github page for more information.
-
-You find this descriptive text in the `index.md` file, so you can change it, or remove it completely, according to your needs.
+其實嚴格來說，我認為計算機科學算是數學的一個分支。
