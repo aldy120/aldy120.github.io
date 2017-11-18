@@ -39,3 +39,14 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+gems:
+  - jekyll-paginate
+
+# About/contact
+author:
+  name:       Author name
+  url:        http://yourhomepage.com 
+
+tagline:      A responsive theme for your project on GitHub Pages
+paginate:     1
