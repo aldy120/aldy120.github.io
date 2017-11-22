@@ -11,17 +11,17 @@
 - SHOULD NOT, NOT RECOMMENDED
 - MAY, OPTIONAL
 
-# MUST, REQUIRED, SHALL
+## MUST, REQUIRED, SHALL
 表示絕對必須做的事情，例如你 MUST 輸入密碼才能登入。
 
-# MUST NOT, SHALL NOT
+## MUST NOT, SHALL NOT
 表示一定不能做的事情，例如你 MUST NOT 把密碼告訴別人。
 
-# SHOULD, RECOMMENDED
+## SHOULD, RECOMMENDED
 表示你可以違反，但必須清楚事情來龍去脈以及之所以這麼做的理由。例如你 SHULD 走斑馬線。
 
-# SHOULD NOT, NOT RECOMMENDED
+## SHOULD NOT, NOT RECOMMENDED
 表示你可以硬做，但是必須知道自己這麼做的理由。例如你 SHOULD NOT 吃過期麵包。
 
-# MAY, OPTIONAL
+## MAY, OPTIONAL
 表示做與不做是完全看情況的，而且不太影響主要做的事情。例如你看電影的時候 MAY 帶爆米花進去。有沒有帶爆米花對看電影沒有影響。
