@@ -44,7 +44,7 @@ $$ x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
 我無法很簡單地告訴你這有什麼用，但不會這個的話，總覺得沒什麼用。
 
 # JavaScript 實作
-此函數ㄒ不支援虛數解
+此函數不支援虛數解
 ```js
 function solveQuadratic(a, b, c) {
   if (a === 0) {
