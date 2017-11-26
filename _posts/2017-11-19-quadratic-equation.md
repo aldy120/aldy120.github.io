@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: true
 ---
 # 一元二次方程式 (Quadratic equation)
 今天要說的主題是一元二次方程式，以及它的公式解。
